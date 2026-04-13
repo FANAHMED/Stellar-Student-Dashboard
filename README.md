@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎓 Stellar Student Dashboard
 
-# Run and deploy your AI Studio app
+A modern and clean **student dashboard** designed to help students stay organized and manage their academic life efficiently.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/4a48bd49-cbd4-4fcc-80ce-9709d8ea6ebd
+## 🌍 Language
 
-## Run Locally
+> ⚠️ **Important:**  
+This project is currently designed in **English**.
 
-**Prerequisites:**  Node.js
+---
 
+## 🧩 Project Overview
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Stellar Student Dashboard** is a web-based interface that allows students to manage their academic information in one place. It focuses on simplicity, organization, and a smooth user experience.
+
+---
+
+## 🚀 Features
+
+- 👤 Student profile management
+- 📚 Academic information display
+- ✅ Task organization
+- 📅 Schedule management
+- ⚙️ Settings page
+- 🎨 Clean and modern UI
+- 💻 Responsive design
+
+---
+
+## 🖼️ Pages Included
+
+- Dashboard
+- Profile
+- Academic Details
+- Schedule
+- Settings
+
+---
+
+## 📦 How to Run
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+---
+
+## 🛠️ Built With
+
+- React
+- Vite
+- TypeScript
+- CSS
+
+---
+
+## 👑 Goal
+
+To create a **simple, useful, and modern dashboard** that helps students stay organized and improve productivity.
